@@ -8,6 +8,7 @@ func main() {
 
 	fmt.Print("Hello World")
 	fmt.Print("Saya Belajar Github")
+	fmt.Print("Saya Bingung Dengan Github")
 
 	// var num1 int
 	// var num2 int
