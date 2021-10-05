@@ -1,0 +1,557 @@
+ 1  cd Downloads/
+    2  dpkg -i *.deb
+    3  apt-get install git 
+    4  sudo apt update
+    5  sudo apt install golang-github-go-sql-driver-mysql-dev
+    6  exit 
+    7  go version 
+    8  apt-get update
+    9  cd Do
+   10  cd Downloads/
+   11  tar -xf go1.17.1.linux-amd64.tar.gz
+   12  ls
+   13  sudo chown -R root:root ./go
+   14  ls
+   15  sudo mv -v go /usr/local/
+   16  ls
+   17  nano ~/.bash.profile 
+   18  ls -a 
+   19  cd ..
+   20  ls
+   21  clear
+   22  ls -a 
+   23  nano ~/.profile 
+   24  source ~/.profile 
+   25  go version
+   26  cd Documents/
+   27  clear
+   28  ld
+   29  cel
+   30  ls
+   31  clear
+   32  ls
+   33  go run test.go 
+   34  reboot
+   35  ping 8.8.8.8
+   36  shutdown -h now
+   37  cd Documents/
+   38  ls
+   39  go run test.go 
+   40  go version
+   41  cd ..
+   42  nano .profile 
+   43  cd /usr/local/
+   44  ls
+   45  ls 
+   46  cd ..
+   47  ls
+   48  cd ..
+   49  ls
+   50  nano .profile 
+   51  source  ~/.profile 
+   52  go version
+   53  cd Documents/
+   54  go run test.go 
+   55  endra
+   56  go run test.go 
+   57  endra
+   58  clr
+   59  clear
+   60  go run test.go 
+   61  endra
+   62  go run test.go 
+   63  endra
+   64  go run test.go 
+   65  endra
+   66  clear
+   67  go run test.go 
+   68  clear
+   69  go run test.go 
+   70  clear
+   71  go run test.go 
+   72  clear
+   73  go run test.go 
+   74  clear
+   75  go run test.go 
+   76  Hendra Gunawan
+   77  clear
+   78  cd Project/
+   79  clear
+   80  go run test.go 
+   81  clear
+   82  go run test.go 
+   83  clear
+   84  go run test.go 
+   85  clear
+   86  go run test.go 
+   87  clear
+   88  go run test.go 
+   89  clear
+   90  go run test.go 
+   91  clear
+   92  go run test.go 
+   93  clear
+   94  go run test.go 
+   95  clear
+   96  go run test.go 
+   97  clear
+   98  go run test.go 
+   99  clear
+  100  go run test.go 
+  101  clear
+  102  go run test.go 
+  103  shutdown -h now 
+  104  ls
+  105  cd dpkg 
+  106  cd pkg 
+  107  ls
+  108  cf mod/
+  109  cd mod/
+  110  ls
+  111  cd /usr/local/
+  112  cd go
+  113  la
+  114  clear
+  115  ls -a
+  116  cd ..
+  117  ls
+  118  ls -a
+  119  cd ..
+  120  ls
+  121  cd local/
+  122  cd go 
+  123  ls
+  124  go get github.com/go-sql-driver/mysql
+  125  cd /home/mashe/
+  126  ls
+  127  ls -a 
+  128  ls
+  129  nana .profile 
+  130  nano .profile 
+  131  source ~/.profile 
+  132  go version 
+  133  go get github.com/go-sql-driver/mysql
+  134  ls github.com/go-sql-driver/mysql
+  135  nano github.com/go-sql-driver/mysql
+  136  nautilus
+  137  cd ~
+  138  ls
+  139  cd go
+  140  ls
+  141  cd pkg/
+  142  ls
+  143  cd mod/
+  144  ls
+  145  cp -R github.com /usr/local/go/src/
+  146  cd /usr/local/go/src/
+  147  ls
+  148  reboot
+  149  go get github.com/go-sql-driver/mysql
+  150  go version 
+  151  clear
+  152  ls
+  153  cd ..
+  154  ls
+  155  ls -a 
+  156  clear
+  157  ls -a 
+  158  nano .bashrc 
+  159  source ~/.bashrc 
+  160  go version 
+  161  nano .bashrc 
+  162  nano .profile 
+  163  source ~/.profile 
+  164  go version 
+  165  clear
+  166  go get github.com/go-sql-driver/mysql
+  167  go get github.com/gin-gonic/gin
+  168  ls
+  169  ls -a 
+  170  clear
+  171  cd Documents/
+  172  ls
+  173  cd Project/
+  174  ls
+  175  clear
+  176  ls
+  177  go get github.com/go-sql-driver/mysql
+  178  cd ..
+  179  cd /usr/local/go/
+  180  ls
+  181  clear
+  182  go get github.com/go-sql-driver/mysql
+  183  nautilus
+  184  ls
+  185  reboot
+  186  cd Documents/Project/
+  187  ls
+  188  clear
+  189  go mod tidy
+  190  source ~/.profile 
+  191  clear
+  192  go mod tidy
+  193  go help modules
+  194  clear
+  195  go nev
+  196  go env
+  197  go env -w GOPATH=$HOME/go
+  198  export GOPATH=$HOME/go
+  199  source ~/.profile 
+  200  ls
+  201  clear
+  202  go env
+  203  ls
+  204  clear
+  205  ls
+  206  export GOPATH=~/go
+  207  cd ~
+  208  ls
+  209  cd go 
+  210  ls
+  211  go get github.com/go-sql-driver/mysq
+  212  cd ..
+  213  ls
+  214  chmod -R 777 go
+  215  ls
+  216  cd go 
+  217  ls
+  218  cd pkg/
+  219  ls
+  220  cd mod/
+  221  ls
+  222  cd github.com/
+  223  ls
+  224  cd go-sql-driver/
+  225  ls
+  226  mysql 
+  227  apt-get install mysql-server 
+  228  mysql
+  229  cd ~
+  230  lsa
+  231  ce
+  232  clear
+  233  ls
+  234  cd go 
+  235  ls
+  236  cd pkg/
+  237  ls
+  238  cd mod/
+  239  ls
+  240  cd /usr/local/go/src/
+  241  ;s
+  242  ls
+  243  clear
+  244  ls
+  245  cd ..
+  246  ls
+  247  mv  -R github.com /usr/local/go/src/
+  248  mv   github.com /usr/local/go/src/
+  249  nautilus
+  250  reboot
+  251  go version
+  252  source ~/.profile 
+  253  go version
+  254  go get github.com/go-sql-driver/mysql
+  255  nautilus
+  256  cd ~
+  257  ls 
+  258  cd go/
+  259  ls
+  260  nano /home/mashe/go/
+  261  cd /home/mashe/go/
+  262  ls
+  263  cd pkg/
+  264  ls
+  265  cd mod/
+  266  ls
+  267  cd ..
+  268  mkdir src
+  269  ls
+  270  cd ..
+  271  chmod -R 777 go 
+  272  ls
+  273  nautilus
+  274  apt-get install phpmyadmin 
+  275  service mysql start
+  276  /etc/init.d/mysql start 
+  277  mysql -u  root -p
+  278  cd Downloads/
+  279  ;s
+  280  ls
+  281  rm code_1.60.2-1632313585_amd64.deb go1.17.1.linux-amd64.tar.gz 
+  282  ls
+  283  clear
+  284  ls
+  285  rm lawn_forest_mountains_144578_1600x1200.jpg 
+  286  clear
+  287  dpkg -i *.deb
+  288  git version 
+  289  go version 
+  290  source ~/.profile 
+  291  go version 
+  292  clear
+  293  cd /usr/local/
+  294  ls
+  295  tar xf /home/mashe/Downloads/flutter_linux_2.5.2-stable.tar.xz 
+  296  ls
+  297  git clone https://github.com/flutter/flutter.git
+  298  cd flutter/
+  299  ls
+  300  clear
+  301  cd /home/mashe/Downloads/
+  302  git clone https://github.com/flutter/flutter.git
+  303  ls
+  304  cd /usr/local/flutter/
+  305  ls
+  306  cd bin/
+  307  ls
+  308  cd /home/mashe/
+  309  ls
+  310  nano .profile 
+  311  source ~/.profile 
+  312  flutter version 
+  313  nano .bashrc 
+  314  source ~/.bashrc 
+  315  flutter version 
+  316  nano .profile 
+  317  source ~/.profile 
+  318  flutter version 
+  319  nano .profile 
+  320  nano .bashrc 
+  321  source ~/.bashrc 
+  322  flutter version 
+  323  reboot
+  324  flutter version 
+  325  cd Downloads/
+  326  ls
+  327  tar xf /home/mashe/Downloads/flutter_linux_2.5.2-stable.tar.xz 
+  328  cd /usr/local/
+  329  chmod -R 777 flutter
+  330  ls
+  331  flutter version 
+  332  cd /home/mashe/Downloads/
+  333  chmod  -R 777 flutter
+  334  ls
+  335  cd flutter 
+  336  ls
+  337  cd bin/
+  338  ls
+  339  cd /home/mashe/
+  340  nano .bashrc 
+  341  source ~/.bashrc 
+  342  cd Downloads/
+  343  ls
+  344  reboot 
+  345  source ~/.bashrc 
+  346  nano .bashrc 
+  347  source ~/.bashrc 
+  348  echo $PATH
+  349  which flutter
+  350  which flutter dart
+  351  nano .bashrc 
+  352  cd /usr/local/
+  353  rm -R flutter/
+  354  cd /home/mashe/Downloads/
+  355  rm -R flutter
+  356  ls
+  357  cd ./
+  358  cd ..
+  359  mkdir  Developer
+  360  chmod -R 777 Developer/
+  361  ls
+  362  cd Developer/
+  363  git clone https://github.com/flutter/flutter.git
+  364  go version
+  365  cd ..
+  366  source ~/.profile 
+  367  go version
+  368  clear
+  369  go get github.com/gorilla/mux
+  370  nautilus
+  371  cd Downloads/
+  372  clear
+  373  ls
+  374  cp -R mux-master /usr/local/go/src/
+  375  cd /usr/local/go/src/
+  376  ls
+  377  nautilus
+  378  ls
+  379  cd github.com/
+  380  ls
+  381  cd /home/mashe/go
+  382  cd src/
+  383  chmod -R 777 github.com/
+  384  reboot 
+  385  cd /home/mashe/go/src/
+  386  ls
+  387  cd github.com/
+  388  ls
+  389  chmod -R 777 gorilla/
+  390  ls
+  391  cd gorilla/
+  392  ls
+  393  cd mux/
+  394  ls
+  395  cd /usr/local/go/src/
+  396  cd github.com/
+  397  ls
+  398  reboot
+  399  mysql
+  400  mysql -u root -p 
+  401  apt-get install phpmyadmin 
+  402  service mysql start 
+  403  dpkg-reconfigure -plow phpmyadmin
+  404  mysql -u root -p
+  405  exit 
+  406  cd Documents/Project/
+  407  ls
+  408  cd ..
+  409  ls
+  410  cd Golang/
+  411  git init 
+  412  ls
+  413  git version 
+  414  clear
+  415  cd ..
+  416  git init 
+  417  git config --global init.defaultBranch mashendragunawa
+  418  git init 
+  419  ls
+  420  git add *
+  421  cd Golang/
+  422  git add *
+  423  git commit -m "pertama"
+  424  git config --global user.email mashendragunawan04@gmail.com
+  425  git config --global user.name mashendragunawan
+  426  git commit -m "pertama"
+  427  git remote add origin https://github.com/mashendragunawan/Golang.git
+  428  git push -u origin main
+  429  git pull origin developmet 
+  430  git pull origin master
+  431  git config pull.rebase true
+  432  git pull origin master
+  433  git push -u origin main
+  434  git pull origin master
+  435  cel
+  436  clear
+  437  git init 
+  438  git remote add origin https://github.com/mashendragunawan/Golang.git
+  439  git push -u origin main 
+  440  git pull --rebase
+  441  git push 
+  442  git push -u origin main 
+  443  git push 
+  444  ls
+  445  cd ..
+  446  ls
+  447  chmod -R 777 Golang/
+  448  reboot 
+  449  git config --get-all user.name
+  450  git config 
+  451  git push -u origin main 
+  452  cd Documents/
+  453  ls
+  454  cd Golang/
+  455  git push -u origin main 
+  456  git push 
+  457  cd ..
+  458  git clone https://github.com/mashendragunawan/Golang.git
+  459  ls
+  460  git push -u origin main 
+  461  cd Golang/
+  462  git push -u origin main 
+  463  cd ..
+  464  chmod -R 777 Golang/
+  465  chown -R 777 Golang/
+  466  ls
+  467  cd Golang/
+  468  git push -f origin master
+  469  git push 
+  470  ls 
+  471  git add * 
+  472  git push 
+  473  git fetch origin 
+  474  git push 
+  475  git status 
+  476  git rebase --continue
+  477  git pull --rebase origin master
+  478  git pull origin master
+  479  git pull --rebase origin master
+  480  git commit -m "sukses"
+  481  git pull origin master
+  482  git pull --rebase origin master
+  483  git pull origin master
+  484  git config pull.rebase true
+  485  git pull origin master
+  486  git pull
+  487  git add *
+  488  git pull 
+  489  git status 
+  490  git commit -m "bingung"
+  491  git pull 
+  492  git add *
+  493  git commit -m "bingung"
+  494  git pull origin master
+  495  git add *
+  496  git commit -m "awewe"
+  497  git pull origin master
+  498  cd Documents/
+  499  lks
+  500  clear
+  501  cd Golang/
+  502  git add *
+  503  git commit -m "saya Sekarang Sudah Cukup Mengerti"
+  504  git pull origin master
+  505  git rebase --continue 
+  506  git pull origin master
+  507  git push
+  508  git add *
+  509  git commit -m "sabar"
+  510  git pull origin master
+  511  ls
+  512  ls -a
+  513  cd .git/
+  514  ls
+  515  rm -r rebase-merge/
+  516  ls
+  517  cd ..
+  518  git pull origin master
+  519  git status 
+  520  git config pull.rebase true
+  521  ls -a 
+  522  cd .go
+  523  cd .git/
+  524  ls
+  525  clear
+  526  git clone https://github.com/mashendragunawan/Golang.git
+  527  ls
+  528  rm -R Golang/
+  529  ls
+  530  git clone https://github.com/mashendragunawan/Golang.git
+  531  cel
+  532  clear
+  533  ls
+  534  git status 
+  535  chmod -R 777 Golang/
+  536  chwon -R 777 Golang/
+  537  chown -R 777 Golang 
+  538  git status 
+  539  git add *
+  540  cd Golang/
+  541  git add *
+  542  git status 
+  543  git commit "Perubahan Pertama"
+  544  git commit -m "Perubahan Pertama"
+  545  clear
+  546  history 
+  547  git pull origin master
+  548  git config pull.rebase true 
+  549  clear
+  550  git pull origin master
+  551  git add *
+  552  git commit -m "Perubahan Pertama"
+  553  git pull origin master
+  554  git add *
+  555  git commit -m "Perhitungan Di Aktifkan"
+  556  git pull origin master
+  557  clear
