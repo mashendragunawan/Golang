@@ -1,6 +1,13 @@
 package main
 
+import (
+	"fmt"
+)
+
 func main() {
+
+	fmt.Print("Hello World")
+	fmt.Print("Saya Belajar Github")
 
 	// var num1 int
 	// var num2 int
