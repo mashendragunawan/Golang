@@ -6,20 +6,18 @@ import (
 
 func main() {
 
-	fmt.Print("Hello World")
+	var num1 int
+	var num2 int
 
-	// var num1 int
-	// var num2 int
+	fmt.Print("Masukan Angka Pertama : ")
+	fmt.Scanf("%d", &num1)
 
-	// fmt.Print("Masukan Angka Pertama : ")
-	// fmt.Scanf("%d", &num1)
+	fmt.Print("Masukan Angka Kedua :")
+	fmt.Scanf("%d", &num2)
 
-	// fmt.Print("Masukan Angka Kedua :")
-	// fmt.Scanf("%d", &num2)
+	pl := num1 / num2
 
-	// pl := num1 / num2
-
-	// fmt.Println(num1, ":", num2, "=", pl)
+	fmt.Println(num1, ":", num2, "=", pl)
 
 	// var nim int
 	// var nama string
