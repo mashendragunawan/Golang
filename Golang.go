@@ -1,4 +1,4 @@
-package Golang
+package main
 
 import (
 	"fmt"
@@ -18,6 +18,8 @@ func main() {
 	pl := num1 / num2
 
 	fmt.Println(num1, ":", num2, "=", pl)
+
+	fmt.Println("Perhitungan Selesai sampai di sini Ok")
 
 	// var nim int
 	// var nama string
